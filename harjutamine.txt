@@ -3,4 +3,8 @@ GitHubi kasutavad tarkvaraarendajad, meeskonnad ja organisatsioonid koodi
 jagamiseks, haldamiseks ja koostööks.
 Edaspidi saan kasutada GitHubi oma programmeerimisprojektide salvestamiseks
 ja meeskonnatöö tegemiseks koolis või tööl.
+GitHub asutati 2008. aastal Chris Wanstrathi, PJ Hyetti, Tom Prestoni-Werneri
+ja Scott Chaconi poolt. GitHubi teenus on olnud avalikult kättesaadav alates
+2008. aastast.
+
 
